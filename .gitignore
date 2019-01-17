@@ -1,0 +1,9 @@
+# Directories to be excluded
+src/.ipynb_checkpoints/
+src/__pycache__/
+data/input/archives/
+data/output/archives/
+
+# Files to be excluded
+models/*/*.caffemodel
+models/*/*/*.caffemodel
